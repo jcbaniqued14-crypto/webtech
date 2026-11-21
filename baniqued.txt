@@ -1,0 +1,16 @@
+commit db104e335fff7fac3e146885acdc15ce51af54a8
+Author:     ced <jcbaniqued14@gmail.com>
+AuthorDate: 2026-09-15 11:56:48 +0800
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2026-09-15 11:56:48 +0800
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..99f5971
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# webtech
+\ No newline at end of file
